@@ -34,7 +34,6 @@ You can contact me with:
 <span>Basic knowleges</span></p>
 <p dir="auto"><span>Russian (Native) <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/e2db8ea38f24c08786a17eca3cae27b0e17d1dda6aaac16c4d32ab456b0d2e86/68747470733a2f2f696d672e69636f6e73382e636f6d2f656d6f6a692f34382f3030303030302f7275737369612d656d6f6a692e706e67"><img src="https://camo.githubusercontent.com/e2db8ea38f24c08786a17eca3cae27b0e17d1dda6aaac16c4d32ab456b0d2e86/68747470733a2f2f696d672e69636f6e73382e636f6d2f656d6f6a692f34382f3030303030302f7275737369612d656d6f6a692e706e67" data-canonical-src="https://img.icons8.com/emoji/48/000000/russia-emoji.png" style="max-width: 100%;"></a></span>&nbsp;&nbsp;&nbsp;&nbsp;
 <span>English (B2-C1) <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/6b391f081b9ac579ad0ff03a617d4526f4af3df039561c161d9b667499bbc65f/68747470733a2f2f696d672e69636f6e73382e636f6d2f656d6f6a692f34382f3030303030302f756e697465642d6b696e67646f6d2d656d6f6a692e706e67"><img src="https://camo.githubusercontent.com/6b391f081b9ac579ad0ff03a617d4526f4af3df039561c161d9b667499bbc65f/68747470733a2f2f696d672e69636f6e73382e636f6d2f656d6f6a692f34382f3030303030302f756e697465642d6b696e67646f6d2d656d6f6a692e706e67" data-canonical-src="https://img.icons8.com/emoji/48/000000/united-kingdom-emoji.png" style="max-width: 100%;"></a></span></p>
-...
 
 
 <!--
