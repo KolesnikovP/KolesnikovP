@@ -7,7 +7,7 @@
    <img src="https://camo.githubusercontent.com/19b33fac7740d862a68b2633007c886688437bf7a2aad11872f1a2ca82745213/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f74656c656772616d2d6170702d2d76332e706e67" data-canonical-src="https://img.icons8.com/color/48/000000/telegram-app--v3.png" style="max-width: 100%;"></a>
  <a name="user-content-gmail" href="mailto:ptrklsnkv@gmail.com"> <img src="https://camo.githubusercontent.com/e260052d80402ee1c3c47c1663259d0d952556860eec8eee4118a46b506f43a3/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f676d61696c2d6e65772e706e67" data-canonical-src="https://img.icons8.com/color/48/000000/gmail-new.png" style="max-width: 100%;"></a>
  <br></p>
-
+<h3 align="left">Lifestyle:</h3>
 <p align="left">
 <a href="https://instagram.com/@just_kolesnikov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@just_kolesnikov" height="30" width="40" data-canonical-src="https://img.icons8.com/color/48/000000/telegram-app--v3.png"/></a>
 </p>
