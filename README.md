@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **nest js, node, react native, view**
 
-- 👨‍💻 All of my projects are available at [www.github.com](www.github.com)
+<!-- - 👨‍💻 All of my projects are available at [www.github.com](www.github.com) -->
 
 - 💬 Ask me about **react, nextjs, ts, js, web**
 
