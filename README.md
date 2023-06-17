@@ -12,8 +12,7 @@
 
 - 📫 How to reach me **ptrklsnkv@gmail.com**
 
-- ⚡ Fun fact **I'm funny. Sometimes. May be. Probably. I'm not funny. But...**
-- 
+<!-- - ⚡ Fun fact **I'm funny. Sometimes. May be. Probably. I'm not funny. But...** -->
 <!-- <h3 align="left">Connect with me:</h3>
 
 <p align="left">
