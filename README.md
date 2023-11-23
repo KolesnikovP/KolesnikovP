@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Sberbank**
 
-- 🌱 I’m currently learning **react native, golang**
+- 🌱 I’m currently learning **react native, python**
 
 <!-- - 👨‍💻 All of my projects are available at [www.github.com](www.github.com) -->
 
