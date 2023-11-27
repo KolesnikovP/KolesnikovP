@@ -11,6 +11,7 @@
 - 💬 Ask me about **react, nextjs, ts, js, web**
 
 - 📫 How to reach me **ptrklsnkv@gmail.com**
+  
 <!-- - ⚡ Fun fact **I'm funny. Sometimes. May be. Probably. I'm not funny. But...** -->
 
 <!-- <h3 align="left">Connect with me:</h3>
