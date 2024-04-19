@@ -3,7 +3,7 @@
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*4fNBO_UDYEVxM0E5T2FyJQ.gif"/>
 
 - 🔭 I’m currently working on **Sberbank**
-- 🌱 I’m currently learning **react native, python**
+<!-- - 🌱 I’m currently learning **react native, python** -->
 <!-- - 👨‍💻 All of my projects are available at [www.github.com](www.github.com) -->
 - 💬 Ask me about **react, nextjs, ts, js, web**
 - 📫 How to reach me **ptrklsnkv@gmail.com**
