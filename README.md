@@ -9,7 +9,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KolesnikovP&theme=dark&hide_border=false)<br/>
 
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=KolesnikovP&theme=github_dark&no-frame=false&no-bg=true&margin-w=4)
 
