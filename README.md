@@ -1,18 +1,31 @@
-<h1 align="center">Hi 👋, I'm Petr Kolesnikov</h1>
-# 💫 About Me:
+# Petr Kolesnikov
 
-🔭 I’m currently working on Sberbank<br>🌱 I’m currently learning golang, canvas
+Frontend engineer with 5+ years building production web apps. Currently in Chicago, looking for mid-level software engineering roles.
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ptrklsnkv@gmail.com) 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=KolesnikovP&theme=dark&hide_border=false)<br/>
+I write mostly React and TypeScript. Lately I've been learning Go and building with Claude Code — AI tools I actually use, not just talk about.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=KolesnikovP&theme=github_dark&no-frame=false&no-bg=true&margin-w=4)
 ---
-[![](https://visitcount.itsvg.in/api?id=KolesnikovP&icon=0&color=0)](https://visitcount.itsvg.in)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+## What I'm building
+
+**[grocking_interviews](https://github.com/KolesnikovP/grocking_interviews)** — an AI-powered interview prep system built on top of Claude Code. Seven specialized agents (reviewer, teacher, optimizer, system design coach, OOP patterns, behavioral, organizer) that work with you through slash commands in your terminal. Covers the full software interview curriculum — DSA patterns, system design, OOP, language-specific concepts, and behavioral questions. Open source.
+
+---
+
+## Tech
+
+**Day to day:** React · TypeScript · JavaScript · Node.js · REST APIs  
+**Learning:** Go · Claude Code agent development  
+**Familiar with:** Redux · Zustand · React Native · Webpack · Module Federation
+
+---
+
+## Background
+
+MS in Computer Science. Built enterprise-scale frontends in my last role — think hundreds of microservices, cross-team coordination, performance work that actually moved metrics. Left to focus on growing into a more well-rounded engineer: algorithms, system design, and backend depth.
+
+---
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/petr-kolesnikov) · ptrklsnkv@gmail.com
