@@ -2,9 +2,7 @@
 
 SW engineer with 5+ years building production web apps. Currently in Chicago, looking for mid-level software engineering roles.
 
-I write mostly React and TypeScript. Lately I've been learning Go and building with Claude Code — AI tools I actually use, not just talk about.
-
----
+I write mostly React and TypeScript. Lately I've been learning Go and building with AI tools.
 
 ## What I'm building
 
@@ -15,7 +13,7 @@ I write mostly React and TypeScript. Lately I've been learning Go and building w
 ## Tech
 
 **Day to day:** React · TypeScript · JavaScript · Node.js · REST APIs  
-**Learning:** Go · Claude Code agent development  
+**Learning:** Go ·  development workflow with AI tools and agents  
 **Familiar with:** Redux · Zustand · React Native · Webpack · Module Federation
 
 ---
