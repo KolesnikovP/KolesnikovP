@@ -16,7 +16,6 @@ I write mostly React and TypeScript. Lately I've been learning Go and building w
 
 ---
 
-
 ## Background
 
 MS in Computer Science. Built enterprise-scale frontends in my last role — think hundreds of microservices, cross-team coordination, performance work that actually moved metrics. Left to focus on growing into a more well-rounded engineer: algorithms, system design, and backend depth.
