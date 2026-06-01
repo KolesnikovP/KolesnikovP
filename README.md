@@ -13,7 +13,6 @@ I write mostly React and TypeScript. Lately I've been learning Go and building w
 **Day to day:** React · TypeScript · JavaScript · Node.js · REST APIs  
 **Learning:** Go ·  development workflow with AI tools and agents  
 **Familiar with:** Redux · Zustand · React Native · Webpack · Module Federation
-
 ---
 ## Background
 
