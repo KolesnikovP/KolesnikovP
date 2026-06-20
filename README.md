@@ -5,7 +5,6 @@ SW engineer with 5+ years building production web apps. Currently in Chicago, lo
 I write mostly React and TypeScript. Lately I've been learning Go and building with AI tools.
 
 ## What I'm building
-
 **[grocking_interviews](https://github.com/KolesnikovP/grocking_interviews)** — an AI-powered interview prep system built on top of Claude Code. Seven specialized agents (reviewer, teacher, optimizer, system design coach, OOP patterns, behavioral, organizer) that work with you through slash commands in your terminal. Covers the full software interview curriculum — DSA patterns, system design, OOP, language-specific concepts, and behavioral questions. Open source.
 ---
 ## Tech
