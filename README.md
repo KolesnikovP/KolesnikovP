@@ -1,7 +1,6 @@
 # Petr Kolesnikov
 
 SW engineer with 5+ years building production web apps. Currently in Chicago, looking for mid-level software engineering roles.
-
 I write mostly React and TypeScript. Lately I've been learning Go and building with AI tools.
 
 ## What I'm building
