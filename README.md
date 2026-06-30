@@ -6,6 +6,7 @@ I write mostly React and TypeScript. Lately I've been learning Go and building w
 **[grocking_interviews](https://github.com/KolesnikovP/grocking_interviews)** — an AI-powered interview prep system built on top of Claude Code. Seven specialized agents (reviewer, teacher, optimizer, system design coach, OOP patterns, behavioral, organizer) that work with you through slash commands in your terminal. Covers the full software interview curriculum — DSA patterns, system design, OOP, language-specific concepts, and behavioral questions. Open source.
 ---
 ## Tech
+
 **Day to day:** React · TypeScript · JavaScript · Node.js · REST APIs  
 **Learning:** Go ·  development workflow with AI tools and agents  
 **Familiar with:** Redux · Zustand · React Native · Webpack · Module Federation
