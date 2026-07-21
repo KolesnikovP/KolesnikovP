@@ -14,5 +14,3 @@ MS in Computer Science. Built enterprise-scale frontends in my last role — thi
 ---
 ## Connect
 [LinkedIn](https://www.linkedin.com/in/petr-kolesnikov) · ptrklsnkv@gmail.com
-
-
